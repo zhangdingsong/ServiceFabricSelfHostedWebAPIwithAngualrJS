@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "SF_SelfHostedWebAPI_NG", "SF_SelfHostedWebAPI_NG\SF_SelfHostedWebAPI_NG.sfproj", "{A61FACE0-3138-455F-BE15-598EF2123C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSVC", "WebApiSVC\WebApiSVC.csproj", "{13BA78A2-A0BD-4193-B283-18B17C7D9615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A61FACE0-3138-455F-BE15-598EF2123C4F}.Debug|x64.ActiveCfg = Debug|x64
+		{A61FACE0-3138-455F-BE15-598EF2123C4F}.Debug|x64.Build.0 = Debug|x64
+		{A61FACE0-3138-455F-BE15-598EF2123C4F}.Debug|x64.Deploy.0 = Debug|x64
+		{A61FACE0-3138-455F-BE15-598EF2123C4F}.Release|x64.ActiveCfg = Release|x64
+		{A61FACE0-3138-455F-BE15-598EF2123C4F}.Release|x64.Build.0 = Release|x64
+		{A61FACE0-3138-455F-BE15-598EF2123C4F}.Release|x64.Deploy.0 = Release|x64
+		{13BA78A2-A0BD-4193-B283-18B17C7D9615}.Debug|x64.ActiveCfg = Debug|x64
+		{13BA78A2-A0BD-4193-B283-18B17C7D9615}.Debug|x64.Build.0 = Debug|x64
+		{13BA78A2-A0BD-4193-B283-18B17C7D9615}.Release|x64.ActiveCfg = Release|x64
+		{13BA78A2-A0BD-4193-B283-18B17C7D9615}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
