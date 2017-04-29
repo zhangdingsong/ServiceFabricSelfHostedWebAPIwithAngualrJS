@@ -1,5 +1,6 @@
 # ServiceFabricSelfHostedWebAPIwithAngualrJS
 A Service Fabric type of Self-Hosted stateless WebAPI is a Console application. This tutorial gives you method to add a AngualrJS frontend UI to WebAPI Console application.
+This is a code implementation of this post: http://haishibai.blogspot.com/2016/11/tutorial-adding-ui-to-service-fabric.html
 
 This method works the best when you want to provide a simple configuration/monitor UI for your Web API. 
 If you want to build a full ASP.NET MVC application, you should consider the ASP.NET Core  service type. <br/>
