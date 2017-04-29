@@ -75,3 +75,7 @@ testApp.controller('TestController', function ($scope) {
 4. Change the property of app.js testPage1.html to set its Copy to Output Directory property to  Copy Always (with Build Action as Content).
 
 5. Deploy the app again. You should be able to access the Angular route by navigating to http://localhost:<port>/#/ngtest.
+
+## Reference
+Below are some useful links, you will need them before your real action.<br/><br/>
+http://haishibai.blogspot.com/2016/11/tutorial-adding-ui-to-service-fabric.html
